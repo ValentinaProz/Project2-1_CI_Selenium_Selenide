@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6sl5g9g5hwqye7r2/branch/main?svg=true)](https://ci.appveyor.com/project/ValentinaProz/project2-1-ci-selenium-selenide/branch/main)
